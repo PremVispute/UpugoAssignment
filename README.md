@@ -10,7 +10,7 @@ This is a react app built as an assignment for [upUgo](https://upugo.in/)
 
 ## Live App
 
-[Check it out here](https://placeholder.netlify.app)
+[Check it out here](https://main--inquisitive-rugelach-c6243e.netlify.app/)
 
 ## Installation Steps
 
