@@ -45,7 +45,7 @@ const Home = () => {
         ) : (
           <div className="px-4 grid grid-cols-1 lg:grid-cols-3 gap-4">
             {users?.length > 0 ? (
-              users.map((user, idx) => (
+              users.map((user) => (
                 <div key={user?.id}>
                   <UserCard
                     user={user}
